@@ -1,1 +1,1 @@
-![fgsfds](https://static.moose23967.ru/fgsfds.jpg)
+<img src="https://static.moose23967.ru/fgsfds.jpg" width="150px" height="150px">
